@@ -1,0 +1,5 @@
+#TheHive URL
+#Users API Key
+#Title Prefixes
+#Username
+#Password
